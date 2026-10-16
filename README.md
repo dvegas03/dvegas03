@@ -1,6 +1,6 @@
 # Danila Kharitonenkov
 
-MS Data Science at San Jose State University (expected Dec 2027). Research Assistant at the XR Intelligence Lab, working on spatial understanding from 2D vision-language models.
+MS Data Science at San Jose State University (expected Dec 2027). Research Assistant at the XR Intelligence Lab, working on spatial understanding from vision-language models.
 
 I build machine learning systems for messy real-world data, and I measure whether they work.
 
